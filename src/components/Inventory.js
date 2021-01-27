@@ -21,7 +21,7 @@ class Inventory extends React.Component {
     };
 
     componentDidMount () {
-        firebase.auth()onAuthStateChanged(user => {
+        firebase.auth().onAuthStateChanged(user => {
             if(user) {
                 this.authHandler({ user });
             }
