@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9602a03d.chunk.css",
-    "main.js": "/static/js/main.832e43e9.chunk.js",
-    "main.js.map": "/static/js/main.832e43e9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eb0b6bae.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eb0b6bae.js.map",
-    "static/js/2.fa446b23.chunk.js": "/static/js/2.fa446b23.chunk.js",
-    "static/js/2.fa446b23.chunk.js.map": "/static/js/2.fa446b23.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4ae0c8cf7c377bc2e48d3b1f5ca11844.js": "/precache-manifest.4ae0c8cf7c377bc2e48d3b1f5ca11844.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9602a03d.chunk.css.map": "/static/css/main.9602a03d.chunk.css.map",
-    "static/js/2.fa446b23.chunk.js.LICENSE.txt": "/static/js/2.fa446b23.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/haymaker-webfont.e9535f20.ttf"
+    "main.css": "/catch-of-the-day/static/css/main.a5d2e162.chunk.css",
+    "main.js": "/catch-of-the-day/static/js/main.832e43e9.chunk.js",
+    "main.js.map": "/catch-of-the-day/static/js/main.832e43e9.chunk.js.map",
+    "runtime-main.js": "/catch-of-the-day/static/js/runtime-main.647d2834.js",
+    "runtime-main.js.map": "/catch-of-the-day/static/js/runtime-main.647d2834.js.map",
+    "static/js/2.bb7bd5a3.chunk.js": "/catch-of-the-day/static/js/2.bb7bd5a3.chunk.js",
+    "static/js/2.bb7bd5a3.chunk.js.map": "/catch-of-the-day/static/js/2.bb7bd5a3.chunk.js.map",
+    "index.html": "/catch-of-the-day/index.html",
+    "precache-manifest.8d99d3334f2c9efdea3ffccb80ae536f.js": "/catch-of-the-day/precache-manifest.8d99d3334f2c9efdea3ffccb80ae536f.js",
+    "service-worker.js": "/catch-of-the-day/service-worker.js",
+    "static/css/main.a5d2e162.chunk.css.map": "/catch-of-the-day/static/css/main.a5d2e162.chunk.css.map",
+    "static/js/2.bb7bd5a3.chunk.js.LICENSE.txt": "/catch-of-the-day/static/js/2.bb7bd5a3.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/catch-of-the-day/static/media/haymaker-webfont.e9535f20.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb0b6bae.js",
-    "static/js/2.fa446b23.chunk.js",
-    "static/css/main.9602a03d.chunk.css",
+    "static/js/runtime-main.647d2834.js",
+    "static/js/2.bb7bd5a3.chunk.js",
+    "static/css/main.a5d2e162.chunk.css",
     "static/js/main.832e43e9.chunk.js"
   ]
 }
